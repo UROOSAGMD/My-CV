@@ -1,0 +1,17 @@
+ul>li{
+font-size: x-large;
+font-weight: 500;
+}
+ .img-fluid{
+    border: 5px solid black!important;
+ }
+ .text-dark{
+    
+    color: black!important;
+ }
+  .container{
+   border: 10px solid gray !important;
+   border-radius: 20px;
+  }
+ 
+    
